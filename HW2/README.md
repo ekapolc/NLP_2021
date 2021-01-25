@@ -3,7 +3,7 @@
 You can download the jupyter notebook file by
 
 ```
-wget --no-check-certificate https://raw.githubusercontent.com/ekapolc/nlp_2020/master/HW2/hw2_nn_word_tokenizer.ipynb
+wget --no-check-certificate https://raw.githubusercontent.com/ekapolc/NLP_2021/main/HW2/hw2_nn_word_tokenizer.ipynb
 ```
 
 **For users that don't use google colab, download the material from** [GDrive](https://drive.google.com/open?id=1iodAqVNWEkiJgH8cWkccsLi_tqoFcMrV)
