@@ -11,5 +11,6 @@ tensorflow-addons - is a extension of tensorflow 2, which provide additional lay
 (https://www.tensorflow.org/addons)
 
 tf2crf - is a simple wrapup for CRF module of tensorflow-addons(tfa.text.crf).
+(https://pypi.org/project/tf2crf/)
 
 Submit the completed notebook file on MyCourseVille ( 5 points total, the points are evenly distributed for each TODO)
