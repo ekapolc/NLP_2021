@@ -2,12 +2,14 @@
 
 We provide basic_ff_embedding.pt as a pretrained word embedding in the resources.zip 
 
-For this demo and homework you will need to install additional libraries, python-crfsuite and keras-contrib.
+For this demo and homework you will need to install additional libraries, python-crfsuite and tensorflow-addons.
 
 python-crfsuite - is a python implementation of Conditional Random Fields (CRFs) for labeling sequential data.
 (https://python-crfsuite.readthedocs.io/en/latest/)
 
-keras-contrib - is a Keras community contributions official extension repository for the python deep learning library Keras. It contains additional layers, activations, loss functions, optimizers, etc. which are not yet available within Keras itself. All of these additional modules can be used in conjunction with core Keras models and modules.
-(https://github.com/keras-team/keras-contrib)
+tensorflow-addons - is a extension of tensorflow 2, which provide additional layers, activations, loss functions, optimizers, etc for many advance deep learning tasks. All of these additional modules can be used in conjunction with the native tensorflow 2.  
+(https://www.tensorflow.org/addons)
 
-Submit the completed notebook file on MyCourseVille ( 5 points total, 0.83 points per 1 TODO)
+tf2crf - is a simple wrapup for CRF module of tensorflow-addons(tfa.text.crf).
+
+Submit the completed notebook file on MyCourseVille ( 5 points total, the points are evenly distributed for each TODO)
